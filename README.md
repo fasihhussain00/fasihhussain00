@@ -1,7 +1,6 @@
 # Fasih Hussain
 
-![Mario waves hello](https://i.gifer.com/6ZFR.gif)
-
+await Life.Start();
  ## About Me
 - 👋 Hi, I’m Fasih Hussain
 - :heart: to Develop Mobile, Web and Desktop Applications. 
