@@ -11,5 +11,5 @@
 
  ## GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=fasihhussain00&show_icons=true&theme=radical&theme=dark)  
+![](https://github-readme-stats.vercel.app/api?username=fasihhussain00&show_icons=true&theme=transparent)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fasihhussain00&layout=compact&theme=transparent)  
