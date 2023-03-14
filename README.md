@@ -1,6 +1,3 @@
-# Fasih Hussain
-
- ## About Me 
 - 👋 Hi, I’m Fasih Hussain
 - :heart: to Develop Mobile, Web and Desktop Applications. 
 - 🌱 Currently working at [ByteCorp](https://bytecorp.io "ByteCorp") as a Software Engineer.
